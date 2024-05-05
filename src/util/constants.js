@@ -1,4 +1,4 @@
-const emotionList = [
+export const emotionList = [
     {
         emotionId : 1,
         emotionName : '완전 좋음'
